@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "milk2", "milk2\milk2.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "transform", "transform\transform.vcxproj", "{F6E4BCC5-EF39-4551-AF98-06F7DD4400BE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "namenum", "namenum\namenum.vcxproj", "{7F22C20F-AC0F-4116-A702-DA9BF5129408}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{F6E4BCC5-EF39-4551-AF98-06F7DD4400BE}.Release|x64.Build.0 = Release|x64
 		{F6E4BCC5-EF39-4551-AF98-06F7DD4400BE}.Release|x86.ActiveCfg = Release|Win32
 		{F6E4BCC5-EF39-4551-AF98-06F7DD4400BE}.Release|x86.Build.0 = Release|Win32
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Debug|x64.ActiveCfg = Debug|x64
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Debug|x64.Build.0 = Debug|x64
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Debug|x86.Build.0 = Debug|Win32
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Release|x64.ActiveCfg = Release|x64
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Release|x64.Build.0 = Release|x64
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Release|x86.ActiveCfg = Release|Win32
+		{7F22C20F-AC0F-4116-A702-DA9BF5129408}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
