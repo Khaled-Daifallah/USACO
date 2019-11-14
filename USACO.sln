@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "barn1", "barn1\barn1.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypt1", "crypt1\crypt1.vcxproj", "{79F12CB5-B1E3-461D-9FDD-DD50DACF33EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combo", "combo\combo.vcxproj", "{7F322F73-93A9-4366-8196-21450B975828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{79F12CB5-B1E3-461D-9FDD-DD50DACF33EE}.Release|x64.Build.0 = Release|x64
 		{79F12CB5-B1E3-461D-9FDD-DD50DACF33EE}.Release|x86.ActiveCfg = Release|Win32
 		{79F12CB5-B1E3-461D-9FDD-DD50DACF33EE}.Release|x86.Build.0 = Release|Win32
+		{7F322F73-93A9-4366-8196-21450B975828}.Debug|x64.ActiveCfg = Debug|x64
+		{7F322F73-93A9-4366-8196-21450B975828}.Debug|x64.Build.0 = Debug|x64
+		{7F322F73-93A9-4366-8196-21450B975828}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F322F73-93A9-4366-8196-21450B975828}.Debug|x86.Build.0 = Debug|Win32
+		{7F322F73-93A9-4366-8196-21450B975828}.Release|x64.ActiveCfg = Release|x64
+		{7F322F73-93A9-4366-8196-21450B975828}.Release|x64.Build.0 = Release|x64
+		{7F322F73-93A9-4366-8196-21450B975828}.Release|x86.ActiveCfg = Release|Win32
+		{7F322F73-93A9-4366-8196-21450B975828}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
